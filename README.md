@@ -49,13 +49,13 @@ You can specify a specific version using the available [tags][3]
 
 [0]: https://www.avorion.net/
 [1]: https://www.avorion.net/forum/index.php/board,2.0.html
-[2]: https://hub.docker.com/r/rfvgyhn/avorion
-[3]: https://hub.docker.com/r/rfvgyhn/avorion/tags
-[4]: https://img.shields.io/docker/stars/rfvgyhn/avorion.svg
-[5]: https://img.shields.io/docker/pulls/rfvgyhn/avorion.svg
-[6]: https://images.microbadger.com/badges/image/rfvgyhn/avorion.svg
+[2]: https://hub.docker.com/r/shrooblord/avorion
+[3]: https://hub.docker.com/r/shrooblord/avorion/tags
+[4]: https://img.shields.io/docker/stars/shrooblord/avorion.svg
+[5]: https://img.shields.io/docker/pulls/shrooblord/avorion.svg
+[6]: https://images.microbadger.com/badges/image/shrooblord/avorion.svg
 [7]: https://img.shields.io/badge/v-0.29.5--beta-blue
-[8]: https://images.microbadger.com/badges/image/rfvgyhn/avorion:stable.svg
+[8]: https://images.microbadger.com/badges/image/shrooblord/avorion:stable.svg
 [9]: https://img.shields.io/badge/v-0.28.1-blue
-[10]: https://images.microbadger.com/badges/image/rfvgyhn/avorion:0.29.4-beta.svg
+[10]: https://images.microbadger.com/badges/image/shrooblord/avorion:0.29.4-beta.svg
 [11]: https://img.shields.io/badge/v-0.29.5--beta-blue
