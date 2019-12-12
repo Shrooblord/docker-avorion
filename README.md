@@ -58,4 +58,4 @@ You can specify a specific version using the available [tags][3]
 [8]: https://images.microbadger.com/badges/image/rfvgyhn/avorion:stable.svg
 [9]: https://img.shields.io/badge/v-0.29.5-blue
 [10]: https://images.microbadger.com/badges/image/rfvgyhn/avorion:0.29.5-beta.svg
-[11]: https://img.shields.io/badge/v-0.29.5--beta-blue
+[11]: https://img.shields.io/badge/v-0.30.0--beta-blue
